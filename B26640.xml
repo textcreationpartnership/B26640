@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A match at a venture: or, time [and] opportunity won the day. Being, a discourse of wooing between two lovers. The young-man courted her with complements most rare, and all his mind to her he boldly did declare; she still held off, aud [sic] was so stiff inclin'd, and would not quickly let him know her mind: until that cupid with his golden dart had made a wound, and pierc'd her tender heart: and then she yielded his true love to be, they now are married, and live most gallantly. Tune of, Jenny come tye my bonny cravat.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26640</idno><idno type="EEBO-CITATION">99888088</idno>
+  <idno type="VID">193146</idno>
+  <idno type="EEBO-PROQUEST">2240898474</idno>
+  
+            <idno type="STC">Wing M1076</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.10[4]</idno>
+            <idno type="STC">ESTC R229004</idno>
+            <idno type="PROQUEST">ocm99888088</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888088e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193146)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:2[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A match at a venture: or, time [and] opportunity won the day. Being, a discourse of wooing between two lovers. The young-man courted her with complements most rare, and all his mind to her he boldly did declare; she still held off, aud [sic] was so stiff inclin'd, and would not quickly let him know her mind: until that cupid with his golden dart had made a wound, and pierc'd her tender heart: and then she yielded his true love to be, they now are married, and live most gallantly. Tune of, Jenny come tye my bonny cravat.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Deacon, at the Rain-bow in Holborn, near St. Andrews Church,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "As I in the fields was walking along,".</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:193146:1"/>
+            <head>A Match at a Venture: <hi>OR, <hi>Time &amp; Opportunity won the day.</hi>
+               </hi>
+               <q>
+                  <l>
+                     <hi>Being,</hi> A Discourse of wooing between Two Lovers.</l>
+                  <l>The Young-man Courted her with Complements most rare,</l>
+                  <l>And all his mind to her he boldly did declare;</l>
+                  <l>She still held off, and was so stiff inclin'd,</l>
+                  <l>And would not quickly let him know her mind:</l>
+                  <l>Until that <hi>Cupid</hi> with his Golden Dart</l>
+                  <l>Had made a wound, and pierc'd her tender heart:</l>
+                  <l>And then she yielded his true Love to be,</l>
+                  <l>They now are Married, and live most gallantly.</l>
+               </q>
+            </head>
+            <opener>Tune of, <hi>Jenny come tye my bonny Cravat.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of gentleman</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>woodcut of woman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>AS I in the Fields was walking along,</l>
+               <l>
+                  <hi>I</hi> heard a young couple was talking anon,</l>
+               <l>
+                  <hi>I</hi> do love thee most dearly, fair Maiden, said he,</l>
+               <l>And thou shalt be my true love until <hi>I</hi> do dye;</l>
+               <l>For <hi>Cupid</hi> has wounded my poor love sick heart,</l>
+               <l>
+                  <hi>I</hi> must break my mind now before we depart.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>I</hi> will buy thée Scarfs, &amp; <hi>I</hi> will buy thée Gloves,</l>
+               <l>That is fitting for suitors to give to their loves,</l>
+               <l>And jewels and bracelets that shall be most rare,</l>
+               <l>If thou wilt but be my true love and my dear;</l>
+               <l>
+                  <hi>I</hi> am thy true lover, thou'st be my own dear,</l>
+               <l>I'le ne'r be false to thée thou needest not fear.</l>
+            </lg>
+            <pb facs="tcp:193146:1"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of man and woman</figDesc>
+               </figure>
+            </p>
+            <sp>
+               <speaker>Maid.</speaker>
+               <lg>
+                  <l>KInd Young-man <hi>I</hi> thank you for your good will,</l>
+                  <l>Yet poor silly Maidens had need try their skill,</l>
+                  <l>You promise more in an hour then you do in 7 year,</l>
+                  <l>Its hard for to trust any Man <hi>I</hi> do swear;</l>
+                  <l>They be so false-hearted, and given to lye,</l>
+                  <l>They've caus'd many a Maiden to weep and to cry.</l>
+               </lg>
+               <lg>
+                  <l>Its not your cunning baits, nor your nimble tongue</l>
+                  <l>Such words as those has done many Maids wrong</l>
+                  <l>Therefore honest young-man you are not for me,</l>
+                  <l>A good Service is better than a Wife for to be:</l>
+                  <l>I take great delight for to live a Maids life,</l>
+                  <l>There's far greater trouble belongs to a Wife.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Young-man.</speaker>
+               <lg>
+                  <l>Swéet-heart now thou mak'st me to smile in conceit,</l>
+                  <l>Now hear me a word more I do thee intreat;</l>
+                  <l>If thou wilt but love me as I do love thee,</l>
+                  <l>And joyn now in wedlock my Wife for to be:</l>
+                  <l>There's never a woman in <hi>England</hi> I swear,</l>
+                  <l>Shall ha' more content then thou shalt have my dear.</l>
+               </lg>
+               <lg>
+                  <l>Tho' some be false-hearted, and often do swear,</l>
+                  <l>O do not blame all men for one my own dear:</l>
+                  <l>He is worse than a Iew that has a good wife,</l>
+                  <l>And loves her not as dear as he loves his own life:</l>
+                  <l>And let her want nothing that she doth require,</l>
+                  <l>But be loving and faithful unto her desire.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <lg>
+                  <l>Indeed honest Man, I tell you now true,</l>
+                  <l>There's many Men more I say besides you,</l>
+                  <l>That has said and sworn as much as you say,</l>
+                  <l>And have proved knaves to their wives the first day:</l>
+                  <l>That never takes care for one thing or other,</l>
+                  <l>Their wife and their children may starve altogether.</l>
+               </lg>
+               <lg>
+                  <l>It behoves all Maidens that live single lives,</l>
+                  <l>How they Marry with Men for to be their wives,</l>
+                  <l>Some will misuse them both sober and drunk,</l>
+                  <l>And use them no better then the whore their Punk,</l>
+                  <l>We see enough every day of those which are wed,</l>
+                  <l>How barely they go, and how hardly they'r fed.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Indeed pretty Maiden thy words are most true,</l>
+               <l>But do not believe it shall be so with you:</l>
+               <l>My state and my purse shall be at thy command,</l>
+               <l>Say what shall be done, and thy word it shall stand;</l>
+               <l>And grant but thy favour my wife for to be,</l>
+               <l>Nothing shall be wanting that can pleasure thee.</l>
+            </sp>
+            <sp>
+               <speaker>Maid.</speaker>
+               <lg>
+                  <l>Why then honest young-Man you shall be my dear,</l>
+                  <l>I'le venture in Marriage without any fear;</l>
+                  <l>You shall be my Husband, I will be your wife,</l>
+                  <l>And live loving together all days of our life:</l>
+                  <l>The Young-Man rejoyced the same for to hear,</l>
+                  <l>when she had yielded to be both his wife &amp; his Dear.</l>
+               </lg>
+               <lg>
+                  <l>Now in the conclusion, they appointed a day,</l>
+                  <l>And went to the Church &amp; were marry'd straitway;</l>
+                  <l>VVith consent of their friends, &amp; to end my Ditty,</l>
+                  <l>They live loving together in <hi>Londons</hi> fair City;</l>
+                  <l>And loving and gallantly they do agree,</l>
+                  <l>And a pattern to other true lovers may be.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>I. Deacon,</hi> at the Rain-bow in Hol<g ref="char:EOLhyphen"/>born, near St. Andrews Church.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
